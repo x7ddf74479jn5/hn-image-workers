@@ -1,0 +1,7 @@
+name = "hn-image-workers"
+main = "src/index.ts"
+compatibility_date = "2022-07-07"
+
+[[r2_buckets]]
+binding = "X7DDF74479JN5_BUCKET"
+bucket_name = "x7ddf74479jn5-bucket"
